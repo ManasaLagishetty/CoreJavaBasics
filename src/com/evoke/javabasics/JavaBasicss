@@ -25,8 +25,10 @@ Rules
 Ex: Car==> methods: driving, breaking
 
 >Object Life cycle
->
-
+>Cat c= new Cat();
+>c==>object reference variable
+>new Cat()==>Object
+>when no reference variable is created to the object then that object garbage collected automatically
 
 
 
