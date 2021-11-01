@@ -1,0 +1,46 @@
+>Wrapper class in java provides the mechanism to convert primitive  into object and object into 
+    primitive. Since 5.0 auto boxing and unboxing are present.
+>primitive to object ==> AutoBoxing
+>Object to primitive ==> UnBoxing
+
+>these are mainly used in collection framework, the entire collection frame work works with objects only
+
+>Varargs
+>varargs allows the method to accept zero or multiple arguments
+>If we don't know how many arguments we have to pass then we can go for Varars
+
+Syntax=> return_type methodName(data_type variable_name)
+
+Rules
+>there must be one variable argument in the method
+>variable argument must be the last argument
+>Ex: void show(int i,String... values)
+
+>Object
+>Object is a real world entity, that is having some state and behavior 
+>Ex: mobile ==>state:color,name ,size  , behavior:used for calling and messaging
+
+>Class
+>class is a blueprint/template , it describes the state and behavior of the object.
+Ex: Car==> methods: driving, breaking
+
+>Object Life cycle
+>Cat c= new Cat();
+>c==>object reference variable
+>new Cat()==>Object
+>when no reference variable is created to the object then that object garbage collected automatically
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

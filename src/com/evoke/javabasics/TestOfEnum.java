@@ -12,9 +12,11 @@ public class TestOfEnum {
 	      case LOW_LEVEL:
 	        System.out.println("it is Low level");
 	        break;
+	        
 	      case MEDIUM_LEVEL:
 	         System.out.println("it is Medium level");
 	        break;
+	        
 	      case HIGH_LEVEL:
 	        System.out.println("it is High level");
 	        break;
