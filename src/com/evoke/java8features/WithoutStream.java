@@ -9,8 +9,9 @@ public class WithoutStream {
 	List<Integer> values= Arrays.asList(1,2,3,4,5);
 	
 	int result=0;
+	
 	for(int i:values) {
-		result = result+i*2; //mutation is 6 times for result
+		result = result+i*2;  //mutation is 6 times for result
 	}
 	System.out.println(result);
 	}

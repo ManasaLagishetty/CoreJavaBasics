@@ -39,11 +39,11 @@ public class ExplainStreamEx {
 
 		//s1.forEach(System.out::println);
 
-		Integer result = (Integer) s1.reduce(0, b); // accepts the binary operator //it returns integer
+	    Integer result = (Integer) s1.reduce(0, b);  //accepts the binary operator //it returns integer
 
-		                                           // 0+2=2, 2+4=6,6+6=12,12+8=20,20+10=30
+		                                            // 0+2=2, 2+4=6,6+6=12,12+8=20,20+10=30
 		
-		System.out.println(result);
+	   System.out.println(result);
 
 	}
 
