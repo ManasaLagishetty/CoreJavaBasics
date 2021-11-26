@@ -15,8 +15,8 @@ public class WriteImage {
 		FileOutputStream  fileoutput =null;
 		
 		try {
-			fileinput = new FileInputStream("D:\\CoreJava\\JavaProject\\src\\com\\evoke\\iostreams\\leaf.jpg");
-		    fileoutput = new FileOutputStream("D:\\CoreJava\\JavaProject\\src\\com\\evoke\\iostreams\\leafout.jpg");
+			fileinput = new FileInputStream("C:\\Users\\mlagishetty\\Desktop\\image\\leaf.jpg");
+		    fileoutput = new FileOutputStream("C:\\Users\\mlagishetty\\Desktop\\leaves.jpg");
 			int data;
 			
 			try {

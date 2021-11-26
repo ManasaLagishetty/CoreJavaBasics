@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-public class BefferedReaderEx {
+public class BufferedReaderEx {
 
 	public static void main(String[] args) {
 
