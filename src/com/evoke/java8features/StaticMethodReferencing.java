@@ -13,7 +13,6 @@ class tableClass{
 public class StaticMethodReferencing {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		furniture obj2=s->System.out.println(s);
 		obj2.table("chair");

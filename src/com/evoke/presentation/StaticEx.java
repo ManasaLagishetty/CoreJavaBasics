@@ -1,4 +1,4 @@
-package com.evoke.java8features;
+package com.evoke.presentation;
 
 interface StaticInterface {
 	static void MyMethod() {
@@ -6,10 +6,12 @@ interface StaticInterface {
 	}
 }
 
-public class StaticMethod {
+public class StaticEx {
 
 	public static void main(String[] args) {
+
 		StaticInterface.MyMethod();
+
 	}
 
 }

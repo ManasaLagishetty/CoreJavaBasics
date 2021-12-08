@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<EmployeeList>
+	<Employee>
+		<name>Manasa</name>
+		<EmpId>123</EmpId>
+	</Employee>
+	<Employee>
+		<name>John</name>
+		<EmpId>124</EmpId>
+	</Employee>
+	<Employee>
+		<name>Jack</name>
+	</Employee>
+</EmployeeList>

@@ -6,6 +6,7 @@ interface MyInterface{
 
 
 class myClass{
+	
 	myClass(int i){
 		System.out.println("student is "+i +"class");
 	}
